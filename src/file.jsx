@@ -456,7 +456,7 @@ return (
       </div>
     </div>
 
-    {/* ── SCAN BAR — like Transit's "Where to?" ── */}
+    {/* ── SCAN BAR — like Transit's'Where to?" ── */}
     <div className="scanbar" style={{
       display:'flex', alignItems:'center', gap:9,
       background:'#0c1522', border:'1.5px solid rgba(74,222,128,.16)',
